@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio/static/css/main.35efaab0.css",
-    "main.js": "/Personal-Portfolio/static/js/main.69c1e26f.js",
+    "main.js": "/Personal-Portfolio/static/js/main.415b5836.js",
     "static/js/787.1ed0c42c.chunk.js": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/brain.png": "/Personal-Portfolio/static/media/brain.195732121f06d1ac89a1.png",
     "static/media/Raleway-Thin.woff": "/Personal-Portfolio/static/media/Raleway-Thin.48b7509c5e967567d507.woff",
@@ -28,11 +28,11 @@
     "static/media/earth.png": "/Personal-Portfolio/static/media/earth.c383fd492f58bb69d7ac.png",
     "index.html": "/Personal-Portfolio/index.html",
     "main.35efaab0.css.map": "/Personal-Portfolio/static/css/main.35efaab0.css.map",
-    "main.69c1e26f.js.map": "/Personal-Portfolio/static/js/main.69c1e26f.js.map",
+    "main.415b5836.js.map": "/Personal-Portfolio/static/js/main.415b5836.js.map",
     "787.1ed0c42c.chunk.js.map": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35efaab0.css",
-    "static/js/main.69c1e26f.js"
+    "static/js/main.415b5836.js"
   ]
 }
