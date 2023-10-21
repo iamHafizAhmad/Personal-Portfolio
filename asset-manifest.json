@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a0e9087.css",
-    "main.js": "/static/js/main.c02b057e.js",
+    "main.css": "/static/css/main.af57b19e.css",
+    "main.js": "/static/js/main.0586f841.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/brain.png": "/static/media/brain.195732121f06d1ac89a1.png",
     "static/media/Raleway-Thin.woff": "/static/media/Raleway-Thin.48b7509c5e967567d507.woff",
@@ -27,12 +27,12 @@
     "static/media/AzeretMono-VariableFont_wght.woff": "/static/media/AzeretMono-VariableFont_wght.95ebfc58d85427ec84fd.woff",
     "static/media/earth.png": "/static/media/earth.c383fd492f58bb69d7ac.png",
     "index.html": "/index.html",
-    "main.9a0e9087.css.map": "/static/css/main.9a0e9087.css.map",
-    "main.c02b057e.js.map": "/static/js/main.c02b057e.js.map",
+    "main.af57b19e.css.map": "/static/css/main.af57b19e.css.map",
+    "main.0586f841.js.map": "/static/js/main.0586f841.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a0e9087.css",
-    "static/js/main.c02b057e.js"
+    "static/css/main.af57b19e.css",
+    "static/js/main.0586f841.js"
   ]
 }
